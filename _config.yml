@@ -4,7 +4,7 @@ email: yasaken@yasaken.com
 description: > # this means to ignore newlines until "baseurl:"
   yasaken的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yasaken.org # the base hostname & protocol for your site
+url: http://yasaken.github.io/ # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: yasaken
 
@@ -14,14 +14,13 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: yasaken@126.com
 weibo: yasaken@126.com
 github: yasaken
 linkedin: xuan-liang-6143585a
 
 # disqus config
 disqus:
-  shortname: yasaken-zh
+  shortname: yasaken
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
