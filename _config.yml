@@ -14,11 +14,10 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: yasaken
-weibo: yasaken
+twitter: yasaken@126.com
+weibo: yasaken@126.com
 github: yasaken
-instagram: yasaken
-linkedin: yasaken
+linkedin: xuan-liang-6143585a
 
 # disqus config
 disqus:
