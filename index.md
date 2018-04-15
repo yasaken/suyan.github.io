@@ -1,14 +1,15 @@
 ---
-title: Why Blog
 layout: post
+title: Welcome
 ---
+
+## 说明
+
+- 作者： 梁璇
+- GitHub：[yasaken](https://github.com/yasaken)
+- 博客源码托管在[Github](https://github.com/yasaken/yasaken.github.io)上
+- 本博客使用[yansu](http://yansu.org/index.html)的模板
 
 ## 关于我
 
 生活和工作在Seattle的程序员，Web后端，C++爱好者。
-
-## 博客平台
-
-这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
-
-本博客的源码托管在 [Github](https://github.com/yasaken/yasaken.github.io) 上，如有改进意见，欢迎讨论。
