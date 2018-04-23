@@ -8,6 +8,7 @@ description: big business
 ---
 
 题目描述：给出两个数组a，b。a[i]代表第i部影片的版权费，b[i]代表第i部影片能卖的钱，现在本金k，问最后最多能赚多少钱。(每部影片只需要买一次版权，只能卖一次)
+
 代码:
 
 #include<vector>
