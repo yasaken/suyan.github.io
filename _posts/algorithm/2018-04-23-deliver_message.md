@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deliver message
+title: Delivermessage
 category: 算法
 tags: Algorithm
 keywords: BSF
