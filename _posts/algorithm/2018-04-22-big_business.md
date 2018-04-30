@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Big business
+title: Bigbusiness
 category: 算法
 tags: Algorithm
 keywords: Greedy
